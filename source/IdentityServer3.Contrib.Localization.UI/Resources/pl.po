@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.1\n"
+"Language: pl\n"
+
+msgid "common.error"
+msgstr "Błąd"
+
+msgid "login.username"
+msgstr "Nazwa użytkownika"
+
+msgid "login.username.placeholder"
+msgstr "Nazwa użytkownika"
+
+msgid "login.password"
+msgstr "Hasło"
+
+msgid "login.password.placeholder"
+msgstr "Hasło"
+
+msgid "login.rememberLogin"
+msgstr "Zapamiętaj mnie"
+
+msgid "login.local"
+msgstr "Lokalny Login"
+
+msgid "login.title"
+msgstr "Login"
+
+msgid "login.action"
+msgstr "Zaloguj"
+
+msgid "login.external"
+msgstr "Login Zewnętrzny"
+
+msgid "login.different"
+msgstr "Zaloguj się innym kontem"
+
+msgid "logout.title"
+msgstr "Wyologowanie"
+
+msgid "logout.info"
+msgstr "Jesteś wylogowany"
+
+msgid "logout.click"
+msgstr "Kliknij"
+
+msgid "logout.here"
+msgstr "tutaj"
+
+msgid "logout.return"
+msgstr "aby wrócić do"
+
+msgid "logout.application"
+msgstr "aplikacji"
+
+msgid "logout.from"
+msgstr "Czy chcesz się wylogować z"
+
+msgid "logout.from2"
+msgstr "?"
+
+msgid "logout.yes"
+msgstr "Tak"
+
+msgid "consent.request"
+msgstr "żąda twojego zezwolenia"
+
+msgid "consent.uncheck"
+msgstr "Odznacz uprawnienia, których nie chcesz udzielić."
+
+msgid "consent.personalInformation"
+msgstr "Informacje Osobiste"
+
+msgid "consent.applicationAccess"
+msgstr "Dostęp Aplikacji"
+
+msgid "consent.required"
+msgstr "(wymagany)"
+
+msgid "consent.rememberDecision"
+msgstr "Zapamiętaj moją decyzję"
+
+msgid "consent.allow"
+msgstr "Tak, zezwól"
+
+msgid "consent.disallow"
+msgstr "Nie, nie zezwalaj"
+
+msgid "permissions.client"
+msgstr "Zezwolenia dla aplikacji klienckiej"
+
+msgid "permissions.nonGranted"
+msgstr "Nie dałeś uprawnień do żadnej aplikacji"
+
+msgid "permissions.identity"
+msgstr "Uprawnienia do danych Osobowych"
+
+msgid "permissions.resource"
+msgstr "Uprawnienia do zasobów"
+
+msgid "permissions.revoke"
+msgstr "Odwołaj"
+
+msgid "form.submit"
+msgstr "Wyślij ten formularz"
+
+msgid "welcome.title"
+msgstr "Serwer Uwierzytelniania"
+
+msgid "welcome.nav.title"
+msgstr "Serwer Uwierzytelniania"
+
+msgid "welcome.header"
+msgstr "Witamy w Serwerze Uwierzytelniania"
+
+msgid "welcome.build"
+msgstr "(wersja {version})"
+
+msgid "welcome.info1"
+msgstr "Sewer Uwierzytelniania publikuje <a href=\"{applicationPath}/.well-known/openid-configuration\">dokument odnajdywania</a>, gdzie można znaleźć matadane oraz linki do wszystkich endpointów, kluczowych materiałów itd."
+
+msgid "welcome.info2"
+msgstr "Serwer Uwierzytelnianai zwzwala użytkownikom na podgląd oraz usuwanie <a href=\"{applicationPath}/permissions\">uprawnień aplikacji</a> udzielonych poprzednio aplikacjom klienckim."
+
+msgid "welcome.info3"
+msgstr "Tutaj znajdują się linki do <a href=\"https://identityserver.github.io/Documentation\">dokumentacji</a>, oraz <a href=\"https://github.com/identityserver/Thinktecture.IdentityServer3.Samples\">gotowe do użycia przykłady</a>."
